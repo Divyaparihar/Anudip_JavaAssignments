@@ -25,4 +25,4 @@ To run any Java program within this repository, ensure you have the Java Develop
 git clone https://github.com/your-username/java-practice.git
 cd java-practice/week1
 javac Example.java
-java Example
+java Example demo
